@@ -1,63 +1,15 @@
 {
   "projects": [
     {
-      "id": 1261586020,
-      "num": "01",
-      "name": "kestrel",
-      "category": "TypeScript",
-      "description": "A GitHub project",
-      "stack": [
-        "TypeScript"
-      ],
-      "gradient": "linear-gradient(135deg, #0f2027, #203a43, #2c5364)",
-      "links": {
-        "github": "https://github.com/Gauthambinoy20/kestrel",
-        "demo": null
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript",
-        "topics": [],
-        "lastUpdated": "2026-06-06T22:49:20Z"
-      },
-      "synced": true,
-      "syncedAt": "2026-08-02T02:42:11.426682+00:00"
-    },
-    {
-      "id": 1259815779,
-      "num": "02",
-      "name": "gauthambinoy20.github.io",
-      "category": "HTML",
-      "description": "Hand-coded personal portfolio. No frameworks, no build step.",
-      "stack": [
-        "HTML"
-      ],
-      "gradient": "linear-gradient(135deg, #1a0a2e, #2d1b69, #5b2c8e)",
-      "links": {
-        "github": "https://github.com/Gauthambinoy20/gauthambinoy20.github.io",
-        "demo": null
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "topics": [],
-        "lastUpdated": "2026-08-01T02:42:59Z"
-      },
-      "synced": true,
-      "syncedAt": "2026-08-02T02:42:11.426711+00:00"
-    },
-    {
       "id": 1262760642,
-      "num": "03",
+      "num": "01",
       "name": "warzone",
       "category": "JavaScript",
       "description": "WARZONE: Last Stand \u2014 a neon Vice City browser FPS. Three.js, wave survival, bosses, shop progression. Installable PWA.",
       "stack": [
         "JavaScript"
       ],
-      "gradient": "linear-gradient(135deg, #0a1628, #1a3a5c, #2980b9)",
+      "gradient": "linear-gradient(135deg, #0f2027, #203a43, #2c5364)",
       "links": {
         "github": "https://github.com/Gauthambinoy20/warzone",
         "demo": null
@@ -70,11 +22,11 @@
         "lastUpdated": "2026-06-08T09:50:07Z"
       },
       "synced": true,
-      "syncedAt": "2026-08-02T02:42:11.426725+00:00"
+      "syncedAt": "2026-08-03T02:43:06.349273+00:00"
     },
     {
       "id": 1261628006,
-      "num": "04",
+      "num": "02",
       "name": "clarity-ai",
       "category": "Python",
       "description": "AI text detection, plagiarism and humanization platform \u2014 18-signal ensemble, FastAPI + React",
@@ -83,7 +35,7 @@
         "React",
         "FastAPI"
       ],
-      "gradient": "linear-gradient(135deg, #0a2610, #1a5c2e, #27ae60)",
+      "gradient": "linear-gradient(135deg, #1a0a2e, #2d1b69, #5b2c8e)",
       "links": {
         "github": "https://github.com/Gauthambinoy20/clarity-ai",
         "demo": null
@@ -96,7 +48,55 @@
         "lastUpdated": "2026-06-07T13:29:45Z"
       },
       "synced": true,
-      "syncedAt": "2026-08-02T02:42:11.426734+00:00"
+      "syncedAt": "2026-08-03T02:43:06.349301+00:00"
+    },
+    {
+      "id": 1259815779,
+      "num": "03",
+      "name": "gauthambinoy20.github.io",
+      "category": "HTML",
+      "description": "Hand-coded personal portfolio. No frameworks, no build step.",
+      "stack": [
+        "HTML"
+      ],
+      "gradient": "linear-gradient(135deg, #0a1628, #1a3a5c, #2980b9)",
+      "links": {
+        "github": "https://github.com/Gauthambinoy20/gauthambinoy20.github.io",
+        "demo": null
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "topics": [],
+        "lastUpdated": "2026-08-02T02:42:15Z"
+      },
+      "synced": true,
+      "syncedAt": "2026-08-03T02:43:06.349310+00:00"
+    },
+    {
+      "id": 1261586020,
+      "num": "04",
+      "name": "kestrel",
+      "category": "TypeScript",
+      "description": "A GitHub project",
+      "stack": [
+        "TypeScript"
+      ],
+      "gradient": "linear-gradient(135deg, #0a2610, #1a5c2e, #27ae60)",
+      "links": {
+        "github": "https://github.com/Gauthambinoy20/kestrel",
+        "demo": null
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "lastUpdated": "2026-06-06T22:49:20Z"
+      },
+      "synced": true,
+      "syncedAt": "2026-08-03T02:43:06.349316+00:00"
     },
     {
       "id": 1259761694,
@@ -134,7 +134,7 @@
         "lastUpdated": "2026-06-27T23:34:01Z"
       },
       "synced": true,
-      "syncedAt": "2026-08-02T02:42:11.426745+00:00"
+      "syncedAt": "2026-08-03T02:43:06.349328+00:00"
     },
     {
       "id": 1259829551,
@@ -160,7 +160,7 @@
         "lastUpdated": "2026-07-09T00:54:54Z"
       },
       "synced": true,
-      "syncedAt": "2026-08-02T02:42:11.426753+00:00"
+      "syncedAt": "2026-08-03T02:43:06.349336+00:00"
     },
     {
       "id": 1261557358,
@@ -184,7 +184,7 @@
         "lastUpdated": "2026-06-07T00:01:00Z"
       },
       "synced": true,
-      "syncedAt": "2026-08-02T02:42:11.426759+00:00"
+      "syncedAt": "2026-08-03T02:43:06.349343+00:00"
     },
     {
       "id": 1260613491,
@@ -208,7 +208,7 @@
         "lastUpdated": "2026-06-05T17:22:51Z"
       },
       "synced": true,
-      "syncedAt": "2026-08-02T02:42:11.426764+00:00"
+      "syncedAt": "2026-08-03T02:43:06.349351+00:00"
     },
     {
       "id": 1260688822,
@@ -232,7 +232,7 @@
         "lastUpdated": "2026-06-05T19:35:44Z"
       },
       "synced": true,
-      "syncedAt": "2026-08-02T02:42:11.426775+00:00"
+      "syncedAt": "2026-08-03T02:43:06.349359+00:00"
     },
     {
       "id": 1261454357,
@@ -257,7 +257,7 @@
         "lastUpdated": "2026-06-06T18:47:50Z"
       },
       "synced": true,
-      "syncedAt": "2026-08-02T02:42:11.426785+00:00"
+      "syncedAt": "2026-08-03T02:43:06.349370+00:00"
     },
     {
       "id": 1261468486,
@@ -292,7 +292,7 @@
         "lastUpdated": "2026-06-06T18:49:16Z"
       },
       "synced": true,
-      "syncedAt": "2026-08-02T02:42:11.426791+00:00"
+      "syncedAt": "2026-08-03T02:43:06.349380+00:00"
     },
     {
       "id": 1260204905,
@@ -318,10 +318,10 @@
         "lastUpdated": "2026-06-05T08:59:09Z"
       },
       "synced": true,
-      "syncedAt": "2026-08-02T02:42:11.426798+00:00"
+      "syncedAt": "2026-08-03T02:43:06.349390+00:00"
     }
   ],
-  "lastGitHubSync": "2026-08-02T02:42:11.427081+00:00",
+  "lastGitHubSync": "2026-08-03T02:43:06.349676+00:00",
   "gitHubUsername": "Gauthambinoy20",
   "totalRepos": 12
 }
